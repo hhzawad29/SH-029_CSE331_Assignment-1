@@ -1,0 +1,1 @@
+This assignment demonstrates fundamental data manipulation and analysis techniques using a customer dataset. The project involves loading a CSV file, exploring its structure, performing descriptive statistics, and filtering data based on specific business queries (e.g., demographics, spending habits, and professional backgrounds).
